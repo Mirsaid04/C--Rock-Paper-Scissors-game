@@ -1,0 +1,14 @@
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/bin/Debug/net8.0/C#-Rock-Paper-Scissors game
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/bin/Debug/net8.0/C#-Rock-Paper-Scissors game.deps.json
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/bin/Debug/net8.0/C#-Rock-Paper-Scissors game.runtimeconfig.json
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/bin/Debug/net8.0/C#-Rock-Paper-Scissors game.dll
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/bin/Debug/net8.0/C#-Rock-Paper-Scissors game.pdb
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/C#-Rock-Paper-Scissors game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/C#-Rock-Paper-Scissors game.AssemblyInfoInputs.cache
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/C#-Rock-Paper-Scissors game.AssemblyInfo.cs
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/C#-Rock-Paper-Scissors game.csproj.CoreCompileInputs.cache
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/C#-Rock-Paper-Scissors game.dll
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/refint/C#-Rock-Paper-Scissors game.dll
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/C#-Rock-Paper-Scissors game.pdb
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/C#-Rock-Paper-Scissors game.genruntimeconfig.cache
+/Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/obj/Debug/net8.0/ref/C#-Rock-Paper-Scissors game.dll
