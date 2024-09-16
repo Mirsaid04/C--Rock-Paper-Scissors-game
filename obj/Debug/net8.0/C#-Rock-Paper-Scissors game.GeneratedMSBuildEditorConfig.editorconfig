@@ -8,5 +8,5 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C__Rock_Paper_Scissors_game
-build_property.ProjectDir = /Users/mirsaid/Desktop/C#-Rock-Paper-Scissors game/
+build_property.ProjectDir = /Users/mirsaid/Desktop/DrawShapes/RockPaperScissors_Game/
 build_property.EnableComHosting = 

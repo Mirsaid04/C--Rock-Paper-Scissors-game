@@ -39,6 +39,7 @@
             switch (player)
             {
                 case "ROCK":
+                
                     if(computer == "ROCK")
                     Console.WriteLine("It is a draw");
 
